@@ -1,36 +1,36 @@
-# 📊 Madhav E-Commerce Sales Dashboard
+# 📊 Retail Data Analysis Dashboard
 
-This is an interactive Power BI dashboard for analyzing **e-commerce sales performance**.  
-It provides clear insights into revenue trends, top-selling products, regional sales distribution, and customer segments.
+This is an interactive **Power BI dashboard** for analyzing retail business performance.  
+It provides clear insights into sales trends, product performance, regional sales distribution, and key metrics for retail operations.
 
 ---
 
 ## 🚀 Key Features
 
-- 📈 **Total Revenue Analysis**  
-  Overview of revenue and growth trends over time.
+- 📈 **Sales & Revenue Trends**  
+  Track total sales and revenue patterns over time.
 
 - 🏆 **Top Products & Categories**  
-  Highlights best-selling products and top-performing categories.
+  Identify best-selling products and high-performing product categories.
 
-- 🌍 **Regional Sales**  
-  Sales breakdown by region, country, or state.
+- 🌍 **Regional Sales Analysis**  
+  Visualize sales breakdown by region, state, or city.
 
-- 👥 **Customer Segmentation**  
-  Segmentation of customers by key attributes and their contribution to total sales.
+- 👥 **Customer Segments**  
+  Analyze customer groups and their contribution to overall sales.
 
-- 📅 **Time-Based Trends**  
-  Monthly, quarterly, and yearly sales analysis.
+- 📅 **Time-Based Insights**  
+  View sales by month, quarter, or year for better trend understanding.
 
 - 🔍 **Interactive Filters & Drilldowns**  
-  Slicers for exploring different data dimensions.
+  Use slicers to filter and explore data by various dimensions.
 
 ---
 
-## 📂 Project Files
+## 📂 Project File
 
-- `Madhav ECommerce Sales Dashboard.pbix`  
-  Power BI Desktop report file containing visuals, data model, and DAX measures.
+- `Retail Data Analysis.pbix`  
+  The Power BI Desktop report file containing the visuals, data model, and DAX measures.
 
 ---
 
@@ -41,13 +41,18 @@ It provides clear insights into revenue trends, top-selling products, regional s
 - Visuals include:
   - Bar Charts
   - Column Charts
+  - Line Charts
   - Pie/Donut Charts
   - Maps
-  - Line Charts
   - Treemaps
-  - Slicers
-  - Cards & KPIs
+  - Tables & Matrix
+  - Cards for KPIs
+  - Slicers for interactive filtering
 
 ---
 
-This dashboard summarizes key sales insights for decision-making and performance monitoring in an e-commerce context.
+This report provides essential retail business insights for data-driven decision making and performance tracking.
+
+  
+
+ 
